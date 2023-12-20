@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 export default function Cart  ({ cartProducts, cartToCheckout }) {
   const [localCartProducts, setLocalCartProducts] = useState([]);
 
+  
   useEffect(() => {
     console.log("Cart products güncellendi:", cartProducts);
     setLocalCartProducts(cartProducts);
@@ -19,6 +20,9 @@ export default function Cart  ({ cartProducts, cartToCheckout }) {
     });
 
     setLocalCartProducts(updatedCartProducts);
+
+    
+    
   };
 
   const calculateTotalPrice = () => {

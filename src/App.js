@@ -25,9 +25,25 @@ export default class App extends Component {
   }
 
   addToCart = (cartItem) => {
-
-    this.setState({cartProducts:[...this.state.cartProducts, cartItem]});
-    console.log(this.state.cartProducts);
+    const { cartProducts } = this.state;
+    const existingProductIndex = cartProducts.findIndex(item => item.id === cartItem.id);
+  
+    if (existingProductIndex !== -1) {
+      const updatedCartProducts = cartProducts.map((item, index) => {
+        if (index === existingProductIndex) {
+          return { ...item, quantity: item.quantity + cartItem.quantity };
+        }
+        return item;
+      });
+  
+      this.setState({ cartProducts: updatedCartProducts }, () => {
+        console.log(this.state.cartProducts);
+      });
+    } else {
+      this.setState({ cartProducts: [...cartProducts, cartItem] }, () => {
+        console.log(this.state.cartProducts);
+      });
+    }
   };
 
   clearCart = () => {

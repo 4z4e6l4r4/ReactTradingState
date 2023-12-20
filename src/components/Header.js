@@ -105,12 +105,14 @@ export default class Header extends Component {
                         <li>
                           <a href="/cart">
                             <i className="fa fa-heart-o" />
+                            <span className="item-count">{this.props.cartProducts.length}</span>
+
                           </a>
                         </li>
                         <li>
                           <Link  to="/cart">
                             <i className="fa fa-shopping-basket" />
-                            {/* <span className="item-count">{this.cartProducts.length}</span> */}
+                            <span className="item-count">{this.props.cartProducts.length}</span>
                           </Link>
                         </li>
                       </ul>

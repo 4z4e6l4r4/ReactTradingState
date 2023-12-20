@@ -21,6 +21,7 @@ export default class App extends Component {
     this.state = {
       cartProducts: [],
       cartCheckOuts: [],
+      fav: [],
     };
   }
 
@@ -59,6 +60,24 @@ export default class App extends Component {
     });
     
   };
+
+  addToFav = (product) => {
+    let newFav = this.state.fav;
+    var addedItem = newFav.find((c) => c.product.id === product.id);
+    if (!addedItem) {
+        newFav.push({product: product});
+    }
+    this.setState({fav: newFav});
+};
+
+removeToFav = (product) => {
+    let newFav = this.state.fav.filter((c) => c.product.id !== product.id);
+    this.setState({fav: newFav});
+};
+
+
+
+
 
   render() {
     return (

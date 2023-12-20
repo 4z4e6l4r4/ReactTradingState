@@ -1,31 +1,41 @@
 import React from 'react';
 import { Carousel } from 'antd';
-const contentStyle = {
-  height: '550px',
-  color: '#fff',
-  lineHeight: '160px',
-  textAlign: 'center',
-  background: '#364d79',
-};
+
 const Slider = () => (
   <div>
-  <Carousel autoplay>
-    <div>
-      <h3 style={contentStyle}>1</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>2</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>3</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>4</h3>
-    </div>
-  </Carousel>
-      <br/>
+    <Carousel autoplay>
+      <div>
+      <img
+          src={`${process.env.PUBLIC_URL}/public/assets/img/backgrounds/background-testimonials.jpg`}
+          alt="Image 2"
+          style={{ width: '100%', height: '550px', objectFit: 'cover' }}
+        />
+        
+      </div>
+      <div>
+        <img
+          src={`${process.env.PUBLIC_URL}/public/assets/img/backgrounds/background-testimonials.jpg`}
+          alt="Image 2"
+          style={{ width: '100%', height: '550px', objectFit: 'cover' }}
+        />
+      </div>
+      <div>
+        <img
+          src={`${process.env.PUBLIC_URL}/path/to/image3.jpg`}
+          alt="Image 3"
+          style={{ width: '100%', height: '550px', objectFit: 'cover' }}
+        />
+      </div>
+      <div>
+        <img
+          src={`${process.env.PUBLIC_URL}/path/to/image4.jpg`}
+          alt="Image 4"
+          style={{ width: '100%', height: '550px', objectFit: 'cover' }}
+        />
+      </div>
+    </Carousel>
+    <br />
   </div>
-
-
 );
+
 export default Slider;

@@ -225,7 +225,6 @@
       "color": "Camel"
     }
   ],
-  
   "blog": [
     {
       "id": 1,
@@ -429,6 +428,39 @@
         "zipCode": ""
       },
       "grandTotal": 4.99
+    },
+    {
+      "id": "vwckg2aqutlqe02l83",
+      "cartProducts": [
+        {
+          "id": 2,
+          "categoryId": 1,
+          "productName": "Jane Lauren Design Chair",
+          "slug": "jane-lauren-design-chair",
+          "image": [
+            "assets/img/products/product-10-1-270x360.jpg",
+            "assets/img/products/product-10-1-270x360.jpg"
+          ],
+          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
+          "price": 4.99,
+          "quantity": "6",
+          "color": "Mavi"
+        }
+      ],
+      "billingAddress": {
+        "firstName": "Zeynep",
+        "lastName": "Yüksel",
+        "email": "yukselazrael@gmail.com",
+        "phone": "05511800705",
+        "companyName": "",
+        "addressLine1": "Kavacık Mah. Fatih Sultan Mehmet Cd. Baki Sk. No:11 Beykoz/İstanbul",
+        "addressLine2": "",
+        "country": "",
+        "townCity": "",
+        "state": "",
+        "zipCode": ""
+      },
+      "grandTotal": 29.94
     }
   ]
 }

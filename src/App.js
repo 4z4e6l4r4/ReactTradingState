@@ -63,7 +63,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
+        <Header cartProducts = {this.state.cartProducts}/>
         <Routes>
           <Route exact path="/" element={<Home addToCart = {this.addToCart}/>} />
           <Route path="/blog" element={<Blog />} />

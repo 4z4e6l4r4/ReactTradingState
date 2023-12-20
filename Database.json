@@ -83,8 +83,149 @@
       "price": 10.99,
       "quantity": 1,
       "color": "Dark Gray"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Alexa Classic Towels",
+      "slug": "alexa-classic-towels",
+      "image": [
+        "assets/img/products/product-15-1-270x360.jpg",
+        "assets/img/products/product-15-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 5.99,
+      "quantity": 1,
+      "color": "Soft Brown"
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "productName": "Olivia Shayn Cover Chair",
+      "slug": "olivia-shayn-cover-chair",
+      "image": [
+        "assets/img/products/product-16-1-270x360.jpg",
+        "assets/img/products/product-16-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 98,
+      "quantity": 1,
+      "color": "Olivia Green"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Juliet Rowley Sofa Remix Fabric",
+      "slug": "juliet-rowley-sofa-remix-fabric",
+      "image": [
+        "assets/img/products/product-17-1-270x360.jpg",
+        "assets/img/products/product-17-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 198,
+      "quantity": 1,
+      "color": "Mint"
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "productName": "Candice Copenhagen Stage Floor Lamp EU",
+      "slug": "candice-copenhagen-stage-floor-lamp-eu",
+      "image": [
+        "assets/img/products/product-18-1-270x360.jpg",
+        "assets/img/products/product-18-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 98,
+      "quantity": 1,
+      "color": "Mint"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "productName": "Benington Pause Dining Table Black",
+      "slug": "benington-pause-dining-table-black",
+      "image": [
+        "assets/img/products/product-19-1-270x360.jpg",
+        "assets/img/products/product-19-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 88,
+      "quantity": 1,
+      "color": "Black"
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "productName": "Belle Georgian Lantern",
+      "slug": "belle-georgian-lantern",
+      "image": [
+        "assets/img/products/product-20-1-270x360.jpg",
+        "assets/img/products/product-20-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 48,
+      "quantity": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "productName": "Sarah Stencil Chair Teak",
+      "slug": "sarah-stencil-chair-teak",
+      "image": [
+        "assets/img/products/product-21-1-270x360.jpg",
+        "assets/img/products/product-21-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 148,
+      "quantity": 1,
+      "color": "Soft Gray"
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Mast Light Galvanised",
+      "slug": "mast-light-galvanised",
+      "image": [
+        "assets/img/products/product-22-1-270x360.jpg",
+        "assets/img/products/product-22-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 198,
+      "quantity": 1,
+      "color": "Soft Gray"
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "productName": "Jane Lauren Chair Camel Linen",
+      "slug": "jane-lauren-chair-camel-linen",
+      "image": [
+        "assets/img/products/product-23-1-270x360.jpg",
+        "assets/img/products/product-23-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 198,
+      "quantity": 1,
+      "color": "Camel"
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "productName": "Olivia Shayn Military TV Cabinet",
+      "slug": "olivia-shayn-military-tv-cabinet",
+      "image": [
+        "assets/img/products/product-24-1-270x360.jpg",
+        "assets/img/products/product-24-2-270x360.jpg"
+      ],
+      "desc": "Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.Tart and delicious cranberry sauce, perfect for holiday meals.",
+      "price": 58,
+      "quantity": 1,
+      "color": "Camel"
     }
   ],
+  
   "blog": [
     {
       "id": 1,
@@ -92,7 +233,7 @@
       "slug": "a-rich-life-with-fruits",
       "image": "assets/img/blog/slider/one-1170x770.jpg",
       "date": "07.2023",
-      "desc": "Get lost in the world of fruits, packed with vitamins and antioxidants!"
+      "desc": "A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants! A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants!A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants!A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants!A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants!A life filled with fruits equals a healthy body. In this article, discover the positive effects of daily fruit consumption on your health. Get lost in the world of fruits, packed with vitamins and antioxidants!"
     },
     {
       "id": 2,
@@ -288,329 +429,6 @@
         "zipCode": ""
       },
       "grandTotal": 4.99
-    },
-    {
-      "id": "o58b5xrbtbblqddh4b2",
-      "cartProducts": [],
-      "billingAddress": {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "phone": "",
-        "companyName": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 0
-    },
-    {
-      "id": "htbrwtpas7rlqddogcl",
-      "cartProducts": [],
-      "billingAddress": {
-        "firstName": "yas",
-        "lastName": "Solmaz",
-        "email": "solmazyasin@hotmail.com",
-        "phone": "05522654558",
-        "companyName": "University of Kocaeli",
-        "addressLine1": "Mevlana mah.",
-        "addressLine2": "izmit",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 0
-    },
-    {
-      "id": "lf2pr1uaswplqddwwf1",
-      "cartProducts": [
-        {
-          "id": 2,
-          "categoryId": 1,
-          "productName": "Jane Lauren Design Chair",
-          "slug": "jane-lauren-design-chair",
-          "image": [
-            "assets/img/products/product-10-1-270x360.jpg",
-            "assets/img/products/product-10-1-270x360.jpg"
-          ],
-          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
-          "price": 4.99,
-          "quantity": "2",
-          "color": "Mavi"
-        },
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": 1,
-          "color": "Gray"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "phone": "",
-        "companyName": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 18.97
-    },
-    {
-      "id": "xwueyhhmgzilqddybf1",
-      "cartProducts": [
-        {
-          "id": 2,
-          "categoryId": 1,
-          "productName": "Jane Lauren Design Chair",
-          "slug": "jane-lauren-design-chair",
-          "image": [
-            "assets/img/products/product-10-1-270x360.jpg",
-            "assets/img/products/product-10-1-270x360.jpg"
-          ],
-          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
-          "price": 4.99,
-          "quantity": "2",
-          "color": "Mavi"
-        },
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": 1,
-          "color": "Gray"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "phone": "",
-        "companyName": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 18.97
-    },
-    {
-      "id": "byt998wirdlqddzdd2",
-      "cartProducts": [
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": "4",
-          "color": "Gray"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "phone": "",
-        "companyName": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 35.96
-    },
-    {
-      "id": "ob4a7r5c1gqlqddzlvh",
-      "cartProducts": [
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": "4",
-          "color": "Gray"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "phone": "",
-        "companyName": "",
-        "addressLine1": "",
-        "addressLine2": "",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 35.96
-    },
-    {
-      "id": "e2z966g5b8olqde14al",
-      "cartProducts": [
-        {
-          "id": 2,
-          "categoryId": 1,
-          "productName": "Jane Lauren Design Chair",
-          "slug": "jane-lauren-design-chair",
-          "image": [
-            "assets/img/products/product-10-1-270x360.jpg",
-            "assets/img/products/product-10-1-270x360.jpg"
-          ],
-          "desc": "A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.A delightful blend of fresh apples, perfect for any occasion.",
-          "price": 4.99,
-          "quantity": "2",
-          "color": "Mavi"
-        },
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": 1,
-          "color": "Gray"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "Yasin Çağrı",
-        "lastName": "Solmaz",
-        "email": "solmazyasin@hotmail.com",
-        "phone": "05522654558",
-        "companyName": "University of Kocaeli",
-        "addressLine1": "Mevlana mah.",
-        "addressLine2": "izmit",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 18.97
-    },
-    {
-      "id": "70wlepz7sawlqde4tjg",
-      "cartProducts": [
-        {
-          "id": 4,
-          "categoryId": 1,
-          "productName": "Jane Lauren Gregory Chair",
-          "slug": "jane-lauren-gregory-chair",
-          "image": [
-            "assets/img/products/product-11-1-270x360.jpg",
-            "assets/img/products/product-11-2-270x360.jpg"
-          ],
-          "desc": "Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.Juicy and sweet peach slices, ready to be enjoyed.",
-          "price": 8.99,
-          "quantity": "3",
-          "color": "Gray"
-        },
-        {
-          "id": 5,
-          "categoryId": 2,
-          "productName": "Candice Desk Lamp",
-          "slug": "candice-desk-lamp",
-          "image": [
-            "assets/img/products/product-12-1-270x360.jpg",
-            "assets/img/products/product-12-2-270x360.jpg"
-          ],
-          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
-          "price": 6.49,
-          "quantity": "2",
-          "color": "Green"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "yasin",
-        "lastName": "solmaz",
-        "email": "180207021@kocaeli.edu.tr",
-        "phone": "+905522654558",
-        "companyName": "kocaeli univercity",
-        "addressLine1": "kocaeli",
-        "addressLine2": "izmit",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 39.95
-    },
-    {
-      "id": "ei14o0cb8hllqdfqvuz",
-      "cartProducts": [
-        {
-          "id": 5,
-          "categoryId": 2,
-          "productName": "Candice Desk Lamp",
-          "slug": "candice-desk-lamp",
-          "image": [
-            "assets/img/products/product-12-1-270x360.jpg",
-            "assets/img/products/product-12-2-270x360.jpg"
-          ],
-          "desc": "A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.A mix of delicious berries for a refreshing and antioxidant-rich treat.",
-          "price": 6.49,
-          "quantity": 1,
-          "color": "Green"
-        }
-      ],
-      "billingAddress": {
-        "firstName": "jfhj",
-        "lastName": "dfhdfh",
-        "email": "dfhdfh",
-        "phone": "dfhdf",
-        "companyName": "dfh",
-        "addressLine1": "dfh",
-        "addressLine2": "dfhdf",
-        "country": "",
-        "townCity": "",
-        "state": "",
-        "zipCode": ""
-      },
-      "grandTotal": 6.49
     }
   ]
 }

@@ -2,7 +2,40 @@ import React, { Component } from "react";
 import {Link} from 'react-router-dom';
 
 export default class Header extends Component {
+ 
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      localCartProducts: [],
+    };
+  }
+
+  componentDidMount() {
+    this.setState({ localCartProducts: this.props.cartProducts });
+  }
+
+  componentDidUpdate(prevProps) {
+    if (prevProps.cartProducts !== this.props.cartProducts) {
+      this.setState({ localCartProducts: this.props.cartProducts });
+    }
+  }
+
+  totalQuantityInCart() {
+    const { cartProducts } = this.props;
+
+    if (!cartProducts || cartProducts.length === 0) {
+      return 0;
+    }
+
+    return cartProducts.map(product => (product.quantity || 0))
+      .reduce((total, quantity) => total + quantity, 0);
+  }
+
+
   render() {
+    const { cartProducts } = this.props;
+
     return (
       <>
         {/*=======  header navigation wrapper  =======*/}
@@ -72,13 +105,12 @@ export default class Header extends Component {
                         <li>
                           <a href="/cart">
                             <i className="fa fa-heart-o" />
-                            <span className="item-count">1</span>
                           </a>
                         </li>
                         <li>
                           <Link  to="/cart">
                             <i className="fa fa-shopping-basket" />
-                            <span className="item-count">3</span>
+                            {/* <span className="item-count">{this.cartProducts.length}</span> */}
                           </Link>
                         </li>
                       </ul>

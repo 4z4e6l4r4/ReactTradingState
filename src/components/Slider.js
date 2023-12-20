@@ -8,6 +8,7 @@ const contentStyle = {
   background: '#364d79',
 };
 const Slider = () => (
+  <div>
   <Carousel autoplay>
     <div>
       <h3 style={contentStyle}>1</h3>
@@ -22,5 +23,9 @@ const Slider = () => (
       <h3 style={contentStyle}>4</h3>
     </div>
   </Carousel>
+      <br/>
+  </div>
+
+
 );
 export default Slider;

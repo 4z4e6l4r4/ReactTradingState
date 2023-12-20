@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
 import {Link} from "react-router-dom";
-import Hero from "../components/Hero";
+import Slider from '../components/Slider';
 
 
 class Fav extends Component {
     render() {
         return (
             <>
-                <Hero title="Favorite" subtitle="Favorite"/>
+                <Slider title="Favorite" subtitle="Favorite"/>
                 <div className="page-content-wrapper">
                     <div className="shopping-cart-area">
                         <div className="container">

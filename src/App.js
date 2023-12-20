@@ -12,6 +12,7 @@ import About from "./pages/About";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import OrderTracking from "./pages/OrderTracking";
+import Fav from "./pages/Fav";
 
 export default class App extends Component {
 
@@ -93,6 +94,7 @@ removeToFav = (product) => {
           <Route path="/cart" element={<Cart cartProducts = {this.state.cartProducts} cartToCheckout ={this.cartToCheckout}/>} />
           <Route path="/checkout" element={<Checkout cartCheckOuts = {this.state.cartCheckOuts} clearCart = {this.clearCart}/>} />
           <Route path="/orderTracking" element={<OrderTracking />} />
+          <Route path="/fav" element={<Fav fav={this.state.fav} removeToFav={this.removeToFav} addToCart={this.addToCart}/>}/>
         </Routes>
         <Footer />
       </div>
